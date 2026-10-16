@@ -84,7 +84,7 @@ jupyter notebook
 
 ## Ключевые графики
 
-<img src="images/avg_tickets_count.png" alt="График" width="52%"> <img src="images/avg_days_by_orders.png" alt="График" width="46%">
+<img src="images/avg_tickets_count.png" alt="График" width="47.5%"><img src="images/avg_days_by_orders.png" alt="График" width="52.5%">
 
 
 ## Автор
