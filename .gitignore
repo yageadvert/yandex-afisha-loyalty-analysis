@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+
+# Python: кэш и скомпилированные файлы
+__pycache__/
+*.py[cod]
+*.class
+
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Переменные окружения и секреты
+.env
+.env.*
+!.env.example
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Тесты и отчёты покрытия
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE / редакторы
+.vscode/
+.idea/
+
+# Сборка Python-пакетов
+build/
+dist/
+*.egg-info/

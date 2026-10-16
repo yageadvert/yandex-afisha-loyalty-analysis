@@ -1,0 +1,7 @@
+pandas
+psycorg2-binary
+SQLAlchemy
+matplotlib
+seaborn
+phik
+python-dotenv
