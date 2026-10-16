@@ -61,7 +61,7 @@ yandex-afisha-loyalty-analysis/
 - Для оптимизации памяти уменьшена разрядность двух целочисленных столбцов;
 - Удалены 5,907 строк отрицательных и нулевых заказов;
 - Выбросы в количестве 182 строк отфильтрованы по 99 процентилю;
-- Средняя выручка с заказа: **582.61 ₽**;
+- Средняя выручка с заказа: **582.61 rub**;
 - Среднее количество билетов в заказе: **2.75**;
 - Средний интервал между заказами: **17.05 дня**;
 - Пользователи, купившие 2–3 билета в первом заказе, возвращаются чаще: их доля среди вернувшихся составляет **49.8%**;
@@ -70,7 +70,7 @@ yandex-afisha-loyalty-analysis/
 
 
 ## Как запустить
-git clone https://github.com/yageadvert/yandex-afisha-loyalty-analysis.git
+git clone https://github.com/yageadvert/yandex-afisha-loyalty-analysis.git \
 cd yandex-afisha-loyalty-analysis\
 pip install -r requirements.txt\
 jupyter notebook
@@ -83,8 +83,9 @@ jupyter notebook
 - Выявлены пользователи с аномально большим числом заказов; их поведение требует отдельного анализа как потенциальная точка роста
 
 ## Ключевые графики
-![](images/avg_tickets_count.png)
-![](images/avg_days_by_orders.png)
+
+<img src="images/avg_tickets_count.png" alt="График" width="52%"> <img src="images/avg_days_by_orders.png" alt="График" width="46%">
+
 
 ## Автор
 https://github.com/yageadvert
