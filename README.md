@@ -14,8 +14,6 @@ yandex-afisha-loyalty-analysis/
     └── final_tickets_tenge_df.csv
 ├── notebooks/
     └── ticket_office.ipynb
-└── sql
-    └── 
 ```
 
 ## Цели и задачи проекта
