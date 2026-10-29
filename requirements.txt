@@ -1,7 +1,7 @@
-pandas
-psycorg2-binary
-SQLAlchemy
-matplotlib
-seaborn
-phik
-python-dotenv
+pandas==2.3.3
+psycorg2-binary==2.9.13
+SQLAlchemy==2.0.43
+matplotlib==3.10.6
+seaborn==0.13.2
+phik==0.12.5
+python-dotenv==1.1.0
